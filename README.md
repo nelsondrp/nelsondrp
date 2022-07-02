@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/NelsondaRosaP">![Twitter Follow](https://img.shields.io/twitter/follow/NelsondaRosaP?label=Follow)</a>
+<a href="https://twitter.com/nelson_darosa">![Twitter Follow](https://img.shields.io/twitter/follow/nelson_darosa?label=Follow)</a>
 ![Follow](https://img.shields.io/github/followers/nelsondrp?label=Followers&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=nelsondrp.visitor-badge)
 <br>
