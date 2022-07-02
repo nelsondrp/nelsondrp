@@ -14,7 +14,7 @@
 ### I'm Nelson da Rosa
 
 - A Information Systems Undergraduate Student at Universidade Federal Fluminense.
-- 🌱 Currently away from my college and studying on my own in Porto Alegre.
+- 🌱 Currently studying on my own in Porto Alegre.
 - 💬 Ask me about Java, Web Development, and society. Reach me through the icons above.
 - 🤔 I’m looking for help with microservices, framework development, and how to make development closer and easier to the developer as well as better and faster for the computer.
 - ⭐ My latest portfolio project, almost ending development is <a href="https://github.com/nelsondrp/social-asteroids-backend">![Social Asteroids](https://img.shields.io/badge/social-asteroids-white)</a>
