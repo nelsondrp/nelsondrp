@@ -2,6 +2,9 @@
 
 <a href="https://twitter.com/NelsondaRosaP">![Twitter Follow](https://img.shields.io/twitter/follow/NelsondaRosaP?label=Follow)</a>
 [![Linkedin: nelson-da-rosa](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-da-rosa/)](https://www.linkedin.com/in/nelson-da-rosa/)
+[![Mail Badge](https://img.shields.io/badge/-nelsondrpin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nelsondrpin@gmail.com)](mailto:nelsondrpin@gmail.com)
+
+
 
 <!--
 **nelsondrp/nelsondrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
