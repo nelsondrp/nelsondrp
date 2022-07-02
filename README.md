@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/NelsondaRosaP">![Twitter Follow](https://img.shields.io/twitter/follow/NelsondaRosaP?label=Follow)</a>
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 
 <!--
 **nelsondrp/nelsondrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
