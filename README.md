@@ -11,7 +11,7 @@
 - A Information Systems Undergraduate Student at Universidade Federal Fluminense.
 - 🌱 Currently away from my college and studying on my own in Porto Alegre.
 - 💬 Ask me about Java, Web Development, and society. Reach me through the icons above.
-- 🤔 I’m looking for help with microservices, framework development, and how to make development closer and easier for the developer.
+- 🤔 I’m looking for help with microservices, framework development, and how to make development closer and easier to the developer.
 - ⭐ My latest portfolio project, still in development: [Social Asteroids](https://github.com/nelsondrp/social-asteroids-backend)
 
 ### 🛠 | Tech Stack
