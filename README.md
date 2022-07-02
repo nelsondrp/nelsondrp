@@ -12,5 +12,11 @@
 - 🌱 Currently away from my college and studying on my own in Porto Alegre.
 - 💬 Ask me about Java, Web Development, and society. Reach me through the icons above.
 - 🤔 I’m looking for help with microservices, framework development, and how to make development closer and easier for the developer.
-- ⭐ My latest portfolio project, still in development [Social Asteroids](https://github.com/nelsondrp/social-asteroids-backend)
+- ⭐ My latest portfolio project, still in development: [Social Asteroids](https://github.com/nelsondrp/social-asteroids-backend)
+
+### 🛠 | Tech Stack
+
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+
 
