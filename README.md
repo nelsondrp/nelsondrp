@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/NelsondaRosaP?label=Follow)
+<a href="https://twitter.com/NelsondaRosaP">![Twitter Follow](https://img.shields.io/twitter/follow/NelsondaRosaP?label=Follow)</a>
 
 <!--
 **nelsondrp/nelsondrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
