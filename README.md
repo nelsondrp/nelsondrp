@@ -16,14 +16,14 @@
 - A Information Systems Undergraduate Student at Universidade Federal Fluminense.
 - 🌱 Currently studying on my own in Porto Alegre.
 - 💬 Ask me about Java, Web Development, and society. Reach me through the icons above.
-- 🤔 I’m looking for help with microservices, framework development, and how to make development closer and easier to the developer as well as better and faster for the computer.
-- ⭐ My latest portfolio project, almost ending development is <a href="https://github.com/nelsondrp/social-asteroids-backend">![Social Asteroids](https://img.shields.io/badge/social-asteroids-white)</a>
+- 🤔 I’m looking for help with framework development, and how to make development closer and easier to the developer as well as better and faster for the computer.
 
 ### 🛠 | Tech Stack
  
 ![Java](https://img.shields.io/badge/Java-b3b3b3?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Microservices](https://img.shields.io/badge/Java-b3b3b3?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![REST](https://img.shields.io/badge/Rest-333333?style=for-the-badge&logo=Restf&logoColor=white)
