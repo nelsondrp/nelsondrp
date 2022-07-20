@@ -9,7 +9,7 @@
 <br>
 [![Mail Badge](https://img.shields.io/badge/-nelsondrpin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nelsondrpin@gmail.com)](mailto:nelsondrpin@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
 
 ### I'm Nelson da Rosa
 
@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/Java-b3b3b3?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![Microservices](https://img.shields.io/badge/Java-b3b3b3?style=for-the-badge&logo=java&logoColor=white)
+![Microservices](https://img.shields.io/badge/MICROSERVICES-333333?style=for-the-badge&logo=Restf&logoColor=white)
 <br>
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![REST](https://img.shields.io/badge/Rest-333333?style=for-the-badge&logo=Restf&logoColor=white)
