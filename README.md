@@ -4,7 +4,7 @@
 ![Follow](https://img.shields.io/github/followers/nelsondrp?label=Followers&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=nelsondrp.visitor-badge)
 <br>
-<a href="https://github.com/nelsondrp/resume/blob/main/CV-NelsondaRosa-06-22.pdf">![Resume](https://img.shields.io/badge/my-resume-blue)</a>
+<a href="https://github.com/nelsondrp/resume">![Resume](https://img.shields.io/badge/my-resume-blue)</a>
 [![Linkedin: nelson-da-rosa](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-da-rosa/)](https://www.linkedin.com/in/nelson-da-rosa/)
 <br>
 [![Mail Badge](https://img.shields.io/badge/-nelsondrpin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nelsondrpin@gmail.com)](mailto:nelsondrpin@gmail.com)
